@@ -1,5 +1,3 @@
-# リースコード検索システム
-
 ## 技術スタック  
 
 **Frontend**  
@@ -15,5 +13,3 @@ PostgresQL 16.xx
 
 **Other**  
 ElasticSearch 8.12.x  
-
-~~コードを検索できるよ名称募集中だよ~~
